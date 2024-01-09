@@ -1,4 +1,10 @@
-### Hi there 👋
+ ### Oi, eu sou o Robson 👋
+
+<div>
+  <a href="https://github.com/RobsonRsousa">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=RobsonRsousa&show_icons=true&theme=merko">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonrsousa&layout=compact">
+</div>
 
 <!--
 **RobsonRsousa/RobsonRsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
